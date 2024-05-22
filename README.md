@@ -9,6 +9,7 @@ Este repositorio contiene la prueba técnica para InLearning Institutos.
 2. Navega al directorio del proyecto, y abrelo con Visual Studio Code.
 
 cd front_inlearning
+
 code .
 
 3. Instala las dependencias utilizando npm:
