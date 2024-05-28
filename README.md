@@ -1,24 +1,28 @@
-# frontend
+# Prueba Técnica
 
-## Project setup
-```
+Este repositorio contiene la prueba técnica para InLearning Institutos.
+
+## Instalación
+
+1. Clona este repositorio en tu máquina local usando una de las opciones como git clone.
+
+2. Navega al directorio del proyecto, y abrelo con Visual Studio Code.
+
+cd front_inlearning
+
+code .
+
+3. Instala las dependencias utilizando npm:
+
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+4. Para ejecutar la aplicación localmente, utiliza el siguiente comando:
+
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Comentarios
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+El desarrollo del proyecto se limitó a la gestión de cursos.
+Se empleó herramientas rápidas y simples para la velocidad del desarrollo por la limitante del tiempo.
+Uno de estos ejemplos es el uso de `fetch` para las consultas en lugar de `axios`.
+Gracias por su tiempo.
